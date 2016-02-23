@@ -20,5 +20,5 @@ js:
       - "var"
       - "prompt"
       - "for"
-      - "10"
+      - "(9|10|11)"
       - "document.write"
