@@ -1,0 +1,24 @@
+repo: "letter-looper-triangle"
+canvasCourse: "467503"
+canvasAssignment: "4202494"
+
+naming: true
+commits: 1
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
+    has:
+      - "script"
+
+js:
+  - path: "js/main.js"
+    valid: true
+    bestPractices: true
+    search:
+      - "var"
+      - "prompt"
+      - "for"
+      - "10"
+      - "document.write"
