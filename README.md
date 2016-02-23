@@ -15,6 +15,21 @@
 
 ## Goal
 
+The output in the browser should look like this:
+
+```
+b
+bb
+bbb
+bbbb
+bbbbb
+bbbbbb
+bbbbbbb
+bbbbbbbb
+bbbbbbbbb
+bbbbbbbbbb
+```
+
 Create the interaction shown in the linked video.
 
 - [**Watch this video to see how it interacts.**](https://youtu.be/-X0jBThNUoM)
